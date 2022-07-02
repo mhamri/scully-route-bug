@@ -10,7 +10,12 @@ just run
 npm i
 npm run build
 npx scully
+
 ```
+
+scully runs without any error or prompt
+
+![scully run picture](./images/Code_xvjPzNh2m7.png)
 
 according to the documentation it's the minimum setup you need to be able run scully, but it's not true
 
