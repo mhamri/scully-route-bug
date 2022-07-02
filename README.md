@@ -14,7 +14,7 @@ npx scully
 
 according to the documentation it's the minimum setup you need to be able run scully, but it's not true
 
-![scully can't find all the route](images\Code_PDU7fEHJkl.png)
+![scully can't find all the route](.\images\Code_PDU7fEHJkl.png)
 
 as you can see there is no folder for the `privacy` and `home`
 
